@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2020
-* Ph.D in VElectrical and Computer Engineering, Duke University, 2025 (expected)
+* Ph.D in Electrical and Computer Engineering (ECE), Duke University, 2025 (expected)
 
 <!-- Work experience
 ======
