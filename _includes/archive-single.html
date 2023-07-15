@@ -46,6 +46,9 @@
     {% elsif post.collection == 'publications' %}
       <p>{{ post.author }}
       <br/>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+      {% if post.award %}
+      <br/> <b><i>{{ post.award }}</i></b>
+      {% endif %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>
