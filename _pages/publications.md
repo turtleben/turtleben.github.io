@@ -20,6 +20,9 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 <br>
 
+Conference Papers
+======
+* 2023
 ### [Rethink before Releasing your Model: ML Model Extraction Attack in EDA](https://dl.acm.org/doi/abs/10.1145/3566097.3567896)
      * [pdf](/files/ASPDAC23_Model_extraction.pdf){: .btn} 
      * **Chen-Chia Chang**, Jingyu Pan, Zhiyao Xie, Jiang Hu, and Yiran Chen
