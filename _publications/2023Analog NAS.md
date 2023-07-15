@@ -2,7 +2,7 @@
 title: "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction"
 collection: publications
 permalink: /publication/2023-analog-nas
-author: '<b>Chen-Chia Chang</b>, Jingyu Pan, Zhiyao Xie, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen'
+author: '<b>Chen-Chia Chang</b>, Jingyu Pan, Zhiyao Xie, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen'
 date: 2023-01-16
 venue: 'Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)'
 award: Best paper nomination
