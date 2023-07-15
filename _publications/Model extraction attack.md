@@ -5,6 +5,7 @@ permalink: /publication/2023-extraction-attack
 author: '<b>Chen-Chia Chang</b>, Jingyu Pan, Zhiyao Xie, Jiang Hu, Yiran Chen'
 date: 2023-01-16
 venue: 'Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)'
+award: Best paper award
 link: 'https://dl.acm.org/doi/abs/10.1145/3566097.3567896'
 paperurl: 'http://turtleben.github.io/files/ASPDAC23_Model_Extraction.pdf'
 ---
