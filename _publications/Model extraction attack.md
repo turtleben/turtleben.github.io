@@ -2,7 +2,7 @@
 title: "Rethink before Releasing your Model: ML Model Extraction Attack in EDA"
 collection: publications
 permalink: /publication/2023-extraction-attack
-author: 'Chen-Chia Chang*, Jingyu Pan, Zhiyao Xie, Jiang Hu, Yiran Chen'
+author: '**Chen-Chia Chang**, Jingyu Pan, Zhiyao Xie, Jiang Hu, Yiran Chen'
 date: 2023-01-16
 venue: 'Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)'
 link: 'https://dl.acm.org/doi/abs/10.1145/3566097.3567896'
