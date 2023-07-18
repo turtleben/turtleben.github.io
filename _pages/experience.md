@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
-* **The CEI Lab, Duke University**
+* **TComputational Evolutionary Intelligence Lab, Duke University**
   * Graduate Student Researcher
+  * Advised by Prof. Yiran Chen
   * Sep. 2020 - PRESENT
 
 * **IBM Corportation**
@@ -20,8 +21,10 @@ author_profile: true
 
 * **Electronic Design Automation Lab, NTU**
   * Research Assistant
+  * Advised by Prof. Yao-Wen Chang
   * Sep. 2018 - Jan. 2020
 
 * **Applied Logic and Computation Lab, NTU**
   * Research Assistant
+  * Advised by Prof. Jie-Hong Roland Jiang
   * Sep. 2018 - Jan. 2020
