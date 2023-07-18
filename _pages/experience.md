@@ -11,7 +11,7 @@ author_profile: true
   * Advised by Prof. Yiran Chen
   * Sep. 2020 - PRESENT
 
-* **IBM Corportation**
+* **IBM Corporation**
   * EDA Research Intern
   * May. 2023 - PRESENT
 
