@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* **TComputational Evolutionary Intelligence Lab, Duke University**
+* **Computational Evolutionary Intelligence Lab, Duke University**
   * Graduate Student Researcher
   * Advised by Prof. Yiran Chen
   * Sep. 2020 - PRESENT
