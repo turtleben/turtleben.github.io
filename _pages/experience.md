@@ -11,9 +11,13 @@ author_profile: true
   * Advised by Prof. Yiran Chen
   * Sep. 2020 - PRESENT
 
+* **NVIDIA Corporation**
+  * Design Automation Research Intern
+  * May. 2024 - Aug. 2024
+
 * **IBM Corporation**
   * EDA Research Intern
-  * May. 2023 - PRESENT
+  * May. 2023 - Aug. 2023
 
 * **Cadence Design System**
   * Machine Learning Software Engineer Intern
