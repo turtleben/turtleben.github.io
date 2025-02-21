@@ -1,7 +1,7 @@
 ---
 title: "DRC-Coder: Automated DRC Checker Code Generation Using LLM Autonomous Agent"
 collection: publications
-permalink: /publication/2024-lamagic
+permalink: /publication/2025-drccoder
 author: '<b>Chen-Chia Chang</b>, Chia-Tung Ho, Yaguang Li, Yiran Chen, and Haoxing Ren'
 date: 2025-03-16
 venue: 'Proceedings of the 2025 International Symposium on Physical Design
