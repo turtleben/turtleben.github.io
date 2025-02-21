@@ -9,11 +9,11 @@ author_profile: true
 * **Computational Evolutionary Intelligence Lab, Duke University**
   * Graduate Student Researcher
   * Advised by Prof. Yiran Chen
-  * Sep. 2020 - PRESENT
+  * Sep. 2020 - Feb. 2025
 
 * **NVIDIA Corporation**
   * Design Automation Research Intern
-  * May. 2024 - Aug. 2024
+  * May. 2024 - Dec. 2024
 
 * **IBM Corporation**
   * EDA Research Intern

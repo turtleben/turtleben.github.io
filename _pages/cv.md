@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/CHENCHIA_MLCAD.pdf){: .btn}
+[PDF](/files/CHENCHIA_CV_MLCAD.pdf){: .btn}
 
 Education
 ======
 * B.S. in Electrical Engineering, National Taiwan University, 2020
-* Ph.D in Electrical and Computer Engineering (ECE), Duke University, 2025 (expected)
+* Ph.D in Electrical and Computer Engineering (ECE), Duke University, 2025
 
 <!-- Work experience
 ======
