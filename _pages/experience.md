@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+* **NVIDIA Corporation**
+  * Senior Machine Learning Engineer
+  * Feb. 2025 - PRESENT
+
 * **Computational Evolutionary Intelligence Lab, Duke University**
   * Graduate Student Researcher
   * Advised by Prof. Yiran Chen
