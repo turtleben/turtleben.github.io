@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chen-Chia Chang"
-  avatar           : "web_chenchia.jpg"
-  bio              : "Ph.D. student, ECE at Duke University"
-  location         : "Durham, NC"
+  avatar           : "chenchia.jpeg"
+  bio              : "Senior Machine Learning Engineer at NVIDIA"
+  location         : "Los Angeles, CA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=w1-TnxYAAAAJ&hl=zh-TW"

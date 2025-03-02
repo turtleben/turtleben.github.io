@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/CHENCHIA_CV_MLCAD.pdf){: .btn}
+[PDF](/files/CHENCHIA_CV.pdf){: .btn}
 
 Education
 ======
