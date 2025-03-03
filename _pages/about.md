@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Chen-Chia’s home on the web. I am a senior machine learning engineer at NVIDIA, working for using ML to advance analog design process. I completed my Ph.D. in Electrical and Computer Engineering at Duke University, advised by Prof. [Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) in the [CEI](https://cei.pratt.duke.edu) Lab. I received my B.S. in Electrical Engineering at National Taiwan University in 2020. My research focuses on novel EDA methods, especially for machine learning and generative AI methodologies. 
+This is Chen-Chia’s home on the web. I am a senior machine learning engineer at NVIDIA, working for using ML to advance analog design process. 
+I completed my Ph.D. in Electrical and Computer Engineering at Duke University, advised by Prof. [Yiran Chen](https://cei.pratt.duke.edu/people/yiran-chen) in the [CEI](https://cei.pratt.duke.edu) Lab. 
+I received my B.S. in Electrical Engineering at National Taiwan University in 2020. My research focuses on novel EDA methods, especially for machine learning and generative AI methodologies. 
 I won the best paper award and best paper candidate at ASPDAC’25. I also received the second place at ISPD'19 Detailed Routing Contest and Honorable Mention at ICCAD'20 CAD Contest.
 
 Outside of my work, I enjoy listening to pop music and have a passion for hip-hop dancing. I was a member of a dance club during his time in college, and I continue to enjoy dancing as a hobby.
